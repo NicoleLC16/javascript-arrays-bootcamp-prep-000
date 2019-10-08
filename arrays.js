@@ -1,6 +1,10 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
+<<<<<<< HEAD
 function addElementToBeginningOfArray(array, element) {
+=======
+function addElementToBeginningofArray (array, element) {
+>>>>>>> 80c7a1be5d06e82bc576f250696d3be02e3ad318
   return [element, ...array];
 }
 
